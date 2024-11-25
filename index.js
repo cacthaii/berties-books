@@ -2,7 +2,7 @@
 var express = require ('express')
 var ejs = require('ejs')
 ///
-var mysql = require('mysql');
+var mysql = require('mysql2');
 
 // Create the express application object
 const app = express()
